@@ -2,7 +2,7 @@
 #include <string>
 
 void greet(const std::string& name) {
-    std::cout << "Hello, " << name  // oops: broke this on purpose
+    std::cout << "Hello, " << name << "! Gate G0 is underway." << std::endl;
 }
 
 int main() {

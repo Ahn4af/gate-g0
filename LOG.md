@@ -10,3 +10,10 @@ Format per entry: date, what I did, what's blocked, what's next.
  
 - Next: GitHub account, SSH key, push gate-g0.
 
+## 2026-10-22 (Thu)
+- Hours: 5
+- Did: Learned chapters 0, 1, and 2 on learncpp.com. I didn't stick to the allocated routine and decided to learn the topics first instead of working block by block, to allow for longer practice sessions the following day. I did some basic syntax practice, but nothing major worth noting. I'll work on more complex programs this week.
+
+- Blocked: Void functions and collisions are hard to wrap my head around; I need to practice more tomorrow.
+
+- Next: Quick review of today's material, then continue with the plan.

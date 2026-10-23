@@ -17,3 +17,9 @@ Format per entry: date, what I did, what's blocked, what's next.
 - Blocked: Void functions and collisions are hard to wrap my head around; I need to practice more tomorrow.
 
 - Next: Quick review of today's material, then continue with the plan.
+
+## 2026-10-23 (Fri)
+- Hours: 3
+- Did: Read through chapter 3 of Learn C++ and practiced with integrated debuggers. Syntax is still an issue, so I practiced simple coding in online terminals.
+- Blocked: Syntax remains a challenge, and the call stack topic was a little tedious.
+- Next: Review all completed chapters and continue with the roadmap.

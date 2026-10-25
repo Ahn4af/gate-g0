@@ -23,3 +23,11 @@ Format per entry: date, what I did, what's blocked, what's next.
 - Did: Read through chapter 3 of Learn C++ and practiced with integrated debuggers. Syntax is still an issue, so I practiced simple coding in online terminals.
 - Blocked: Syntax remains a challenge, and the call stack topic was a little tedious.
 - Next: Review all completed chapters and continue with the roadmap.
+
+## 2026-10-24 (Sat)
+- Hours: <3>
+- Did: Git practice run complete: commit, branch, merge, revert, restore, push. Resolved a merge conflict (GitHub README). Harris ch. 1.
+
+- Blocked: Kept pasting C++ into the terminal instead of a file. Fix: `code sum.cpp`, paste into the editor tab, Ctrl+S.
+
+- Next: Create sum.cpp, plant the bug, find it with gdb. Then rehearse the Git routine from memory.

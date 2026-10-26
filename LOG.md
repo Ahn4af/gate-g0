@@ -31,3 +31,12 @@ Format per entry: date, what I did, what's blocked, what's next.
 - Blocked: Kept pasting C++ into the terminal instead of a file. Fix: `code sum.cpp`, paste into the editor tab, Ctrl+S.
 
 - Next: Create sum.cpp, plant the bug, find it with gdb. Then rehearse the Git routine from memory.
+
+## 2026-10-26 (Mon)
+- Hours: 2.5
+
+- Did: Gate G0 test, Git part: passed without notes (init, branch, merge, revert, restore, push to Ahn4af/g0-test).
+
+- Blocked: gdb part not started; haven't used gdb yet.
+
+- Next: Gate G0 part 6 (gdb) using the checklist, then start Harris ch. 2.
